@@ -74,5 +74,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 <img src="https://res.cloudinary.com/djnhw4aey/image/upload/v1648492756/login1_zsbaei.png" width=400>
 
 ありがとうございます
+
 ☆*:.｡. o(≧▽≦)o .｡.:*☆
+
 [React でログインフォームを自作してみよう](https://youtu.be/HB3kZKfMm-s)
